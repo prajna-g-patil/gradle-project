@@ -15,7 +15,14 @@ Right click on `App.java` → Run As → Java Application
 ## 👩‍💻 Author
 Prajna G Patil## Updated section
 This project is created using Gradle.## Updated section
-This project is created using Gradle.# Gradle Project
+This project is created using Gradle.## Author
+Prajna G Patil
+
+## Description
+This project is created using Gradle.
+
+## How to Run
+./gradlew run# Gradle Project
 
 This is my first Gradle Java project.
 
